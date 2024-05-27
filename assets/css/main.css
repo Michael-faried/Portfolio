@@ -3045,3 +3045,15 @@ body.is-touch .poptrox-popup .closer {
         padding-left: 0;
     }
 }
+
+/* CSS */
+#badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.badge {
+    width: 100px; /* Adjust the size as needed */
+    margin: 5px; /* Adjust spacing between badges */
+}
